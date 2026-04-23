@@ -1,0 +1,28 @@
+
+# Langchain
+langchain
+langchain-core
+
+# OpenAI
+langchain-openai
+
+# # Anthropic
+# langchain-anthropic
+
+# Google
+langchain-google-genai
+
+# Hugging Face
+langchain-huggingface
+huggingface_hub
+
+# Environment Variables
+python-dotenv
+
+# #ML
+# scikit-learn
+# numpy
+# pandas
+
+# UI 
+streamlit
