@@ -1,0 +1,3 @@
+https://colab.research.google.com/drive/1iD40OXUNEorAZtiVS0rDC-VsSGSPZxmx#scrollTo=jycfv7Da9OWv
+
+https://docs.langchain.com/oss/python/integrations/retrievers
